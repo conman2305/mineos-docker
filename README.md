@@ -1,3 +1,6 @@
+# PLEASE NOTE
+Please note this is a personal development fork of the original hexparrot/mineos-docker repository!
+
 # mineos-docker
 Dockerfiles for MineOS Images
 
